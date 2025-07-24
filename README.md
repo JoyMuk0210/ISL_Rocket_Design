@@ -3,7 +3,7 @@
 This project was created as part of the India Space Lab (ISL) Summer Internship 2025.
 
 ## 📄 Description
-A model rocket was designed and simulated using OpenRocket software. The rocket achieved an apogee of ~770 meters using a G-class motor, with a stability margin of ~2 calibers and a parachute descent rate of 3.7 m/s.
+A model rocket was designed and simulated using OpenRocket software. The rocket achieved an apogee of ~820 meters using a J-class motor, with a stability margin of ~2 calibers and a parachute descent rate of 3.7 m/s.
 
 ## 📂 Files Included
 - `ISL_rocket.rkt` – OpenRocket design file
