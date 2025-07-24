@@ -7,7 +7,11 @@ A model rocket was designed and simulated using OpenRocket software. The rocket 
 
 ## 📂 Files Included
 - `ISL_rocket.rkt` – OpenRocket design file
-- `3Dmodel.obj` - 3D rocket model 
+  <img width="900" height="205" alt="image" src="https://github.com/user-attachments/assets/94f6c5c4-b774-4190-b6f3-ae4372867b18" />
+
+- `3Dmodel.obj` - 3D rocket model
+  <img width="900" height="677" alt="image" src="https://github.com/user-attachments/assets/718ead32-2be9-4b49-b50b-d36802e6f042" />
+
 - `Graph.png` – Graph visualization
   <img width="825" height="494" alt="image" src="https://github.com/user-attachments/assets/a15e23e5-903b-4431-aa2c-20d8fe289dc7" />
 
