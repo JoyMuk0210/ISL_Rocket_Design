@@ -9,7 +9,7 @@ A model rocket was designed and simulated using OpenRocket software. The rocket 
 - `ISL_rocket.rkt` – OpenRocket design file
 - `3Dmodel.obj` - 3D rocket model 
 - `Graph.png` – Graph visualization
--  `Data.csv` – Flight data
+-  `Data.csv` – Simulation Flight data with various parameters like time, altitude, velocity, acceleration, etc.
 
 ## 🛠️ Tools Used
 - [OpenRocket](http://openrocket.info/)
